@@ -33,9 +33,9 @@ For a detailed explanation of the project, see the full report:  [Final_Report.p
   
 ---
 
-## Not Included (Due to File Size Limitations)
+## Not Included
 
-The following folders were generated while running the code but are not included in this repository:
+The following folders were generated while running the code but are not included in this repository due to file size limitations:
 
 - **`/metaphor_xlmr_domain_adapted`**  
   Folder created during domain-adaptive pre-training.
